@@ -36,12 +36,14 @@ class TicketCounterSimulation:
             self._handleEndService(curTime)
 
     def _handleArrival(self, cur_time):
+        """Add new passengers to queue"""
         if 0 <= random.random() <= self._arriveProb:
             self._numPassengers += 1
             self._passengerQ.enqueue(Passenger(self._numPassengers, cur_time))
             logging.info(f"TIME {cur_time}: Passenger {self._numPassengers} arrived in queue")
 
     def _handleBeginService(self, cur_time):
+        """Begin service for passengrs in queue with free agents """
         for i in range(len(self._theAgents)):
             if self._passengerQ.isEmpty():
                 return
@@ -54,6 +56,7 @@ class TicketCounterSimulation:
                 # logging.info(f"")
 
     def _handleEndService(self, cur_time):
+        """End service for passengrs"""
         for i in range(len(self._theAgents)):
             if self._theAgents[i].isFinished(cur_time):
                 passenger = self._theAgents[i].stopService()
