@@ -1,0 +1,147 @@
+INFO:root:TIME 2: Passenger 1 arrived in queue
+INFO:root:TIME 2: Agent 1 started serving Passenger 1. Waiting time: 0
+INFO:root:TIME 3: Passenger 2 arrived in queue
+INFO:root:TIME 3: Agent 2 started serving Passenger 2. Waiting time: 0
+INFO:root:TIME 5: Passenger 3 arrived in queue
+INFO:root:TIME 5: Agent 1 finished serving Passenger 1
+INFO:root:TIME 6: Agent 1 started serving Passenger 3. Waiting time: 1
+INFO:root:TIME 6: Agent 2 finished serving Passenger 2
+INFO:root:TIME 8: Passenger 4 arrived in queue
+INFO:root:TIME 8: Agent 2 started serving Passenger 4. Waiting time: 0
+INFO:root:TIME 9: Agent 1 finished serving Passenger 3
+INFO:root:TIME 10: Passenger 5 arrived in queue
+INFO:root:TIME 10: Agent 1 started serving Passenger 5. Waiting time: 0
+INFO:root:TIME 11: Passenger 6 arrived in queue
+INFO:root:TIME 11: Agent 2 finished serving Passenger 4
+INFO:root:TIME 12: Agent 2 started serving Passenger 6. Waiting time: 1
+INFO:root:TIME 13: Passenger 7 arrived in queue
+INFO:root:TIME 13: Agent 1 finished serving Passenger 5
+INFO:root:TIME 14: Passenger 8 arrived in queue
+INFO:root:TIME 14: Agent 1 started serving Passenger 7. Waiting time: 1
+INFO:root:TIME 15: Passenger 9 arrived in queue
+INFO:root:TIME 15: Agent 2 finished serving Passenger 6
+INFO:root:TIME 16: Agent 2 started serving Passenger 8. Waiting time: 2
+INFO:root:TIME 17: Agent 1 finished serving Passenger 7
+INFO:root:TIME 18: Passenger 10 arrived in queue
+INFO:root:TIME 18: Agent 1 started serving Passenger 9. Waiting time: 3
+INFO:root:TIME 19: Passenger 11 arrived in queue
+INFO:root:TIME 19: Agent 2 finished serving Passenger 8
+INFO:root:TIME 20: Agent 2 started serving Passenger 10. Waiting time: 2
+INFO:root:TIME 21: Agent 1 finished serving Passenger 9
+INFO:root:TIME 22: Agent 1 started serving Passenger 11. Waiting time: 3
+INFO:root:TIME 23: Passenger 12 arrived in queue
+INFO:root:TIME 23: Agent 2 finished serving Passenger 10
+INFO:root:TIME 24: Agent 2 started serving Passenger 12. Waiting time: 1
+INFO:root:TIME 25: Passenger 13 arrived in queue
+INFO:root:TIME 25: Agent 1 finished serving Passenger 11
+INFO:root:TIME 26: Agent 1 started serving Passenger 13. Waiting time: 1
+INFO:root:TIME 27: Passenger 14 arrived in queue
+INFO:root:TIME 27: Agent 2 finished serving Passenger 12
+INFO:root:TIME 28: Passenger 15 arrived in queue
+INFO:root:TIME 28: Agent 2 started serving Passenger 14. Waiting time: 1
+INFO:root:TIME 29: Passenger 16 arrived in queue
+INFO:root:TIME 29: Agent 1 finished serving Passenger 13
+INFO:root:TIME 30: Agent 1 started serving Passenger 15. Waiting time: 2
+INFO:root:TIME 31: Passenger 17 arrived in queue
+INFO:root:TIME 31: Agent 2 finished serving Passenger 14
+INFO:root:TIME 32: Agent 2 started serving Passenger 16. Waiting time: 3
+INFO:root:TIME 33: Passenger 18 arrived in queue
+INFO:root:TIME 33: Agent 1 finished serving Passenger 15
+INFO:root:TIME 34: Passenger 19 arrived in queue
+INFO:root:TIME 34: Agent 1 started serving Passenger 17. Waiting time: 3
+INFO:root:TIME 35: Passenger 20 arrived in queue
+INFO:root:TIME 35: Agent 2 finished serving Passenger 16
+INFO:root:TIME 36: Passenger 21 arrived in queue
+INFO:root:TIME 36: Agent 2 started serving Passenger 18. Waiting time: 3
+INFO:root:TIME 37: Agent 1 finished serving Passenger 17
+INFO:root:TIME 38: Passenger 22 arrived in queue
+INFO:root:TIME 38: Agent 1 started serving Passenger 19. Waiting time: 4
+INFO:root:TIME 39: Agent 2 finished serving Passenger 18
+INFO:root:TIME 40: Agent 2 started serving Passenger 20. Waiting time: 5
+INFO:root:TIME 41: Agent 1 finished serving Passenger 19
+INFO:root:TIME 42: Agent 1 started serving Passenger 21. Waiting time: 6
+INFO:root:TIME 43: Passenger 23 arrived in queue
+INFO:root:TIME 43: Agent 2 finished serving Passenger 20
+INFO:root:TIME 44: Agent 2 started serving Passenger 22. Waiting time: 6
+INFO:root:TIME 45: Agent 1 finished serving Passenger 21
+INFO:root:TIME 46: Agent 1 started serving Passenger 23. Waiting time: 3
+INFO:root:TIME 47: Passenger 24 arrived in queue
+INFO:root:TIME 47: Agent 2 finished serving Passenger 22
+INFO:root:TIME 48: Passenger 25 arrived in queue
+INFO:root:TIME 48: Agent 2 started serving Passenger 24. Waiting time: 1
+INFO:root:TIME 49: Passenger 26 arrived in queue
+INFO:root:TIME 49: Agent 1 finished serving Passenger 23
+INFO:root:TIME 50: Agent 1 started serving Passenger 25. Waiting time: 2
+INFO:root:TIME 51: Passenger 27 arrived in queue
+INFO:root:TIME 51: Agent 2 finished serving Passenger 24
+INFO:root:TIME 52: Agent 2 started serving Passenger 26. Waiting time: 3
+INFO:root:TIME 53: Passenger 28 arrived in queue
+INFO:root:TIME 53: Agent 1 finished serving Passenger 25
+INFO:root:TIME 54: Agent 1 started serving Passenger 27. Waiting time: 3
+INFO:root:TIME 55: Agent 2 finished serving Passenger 26
+INFO:root:TIME 56: Passenger 29 arrived in queue
+INFO:root:TIME 56: Agent 2 started serving Passenger 28. Waiting time: 3
+INFO:root:TIME 57: Agent 1 finished serving Passenger 27
+INFO:root:TIME 58: Agent 1 started serving Passenger 29. Waiting time: 2
+INFO:root:TIME 59: Agent 2 finished serving Passenger 28
+INFO:root:TIME 60: Passenger 30 arrived in queue
+INFO:root:TIME 60: Agent 2 started serving Passenger 30. Waiting time: 0
+INFO:root:TIME 61: Agent 1 finished serving Passenger 29
+INFO:root:TIME 63: Agent 2 finished serving Passenger 30
+INFO:root:TIME 64: Passenger 31 arrived in queue
+INFO:root:TIME 64: Agent 1 started serving Passenger 31. Waiting time: 0
+INFO:root:TIME 66: Passenger 32 arrived in queue
+INFO:root:TIME 66: Agent 2 started serving Passenger 32. Waiting time: 0
+INFO:root:TIME 67: Agent 1 finished serving Passenger 31
+INFO:root:TIME 68: Passenger 33 arrived in queue
+INFO:root:TIME 68: Agent 1 started serving Passenger 33. Waiting time: 0
+INFO:root:TIME 69: Passenger 34 arrived in queue
+INFO:root:TIME 69: Agent 2 finished serving Passenger 32
+INFO:root:TIME 70: Passenger 35 arrived in queue
+INFO:root:TIME 70: Agent 2 started serving Passenger 34. Waiting time: 1
+INFO:root:TIME 71: Passenger 36 arrived in queue
+INFO:root:TIME 71: Agent 1 finished serving Passenger 33
+INFO:root:TIME 72: Agent 1 started serving Passenger 35. Waiting time: 2
+INFO:root:TIME 73: Passenger 37 arrived in queue
+INFO:root:TIME 73: Agent 2 finished serving Passenger 34
+INFO:root:TIME 74: Agent 2 started serving Passenger 36. Waiting time: 3
+INFO:root:TIME 75: Agent 1 finished serving Passenger 35
+INFO:root:TIME 76: Passenger 38 arrived in queue
+INFO:root:TIME 76: Agent 1 started serving Passenger 37. Waiting time: 3
+INFO:root:TIME 77: Passenger 39 arrived in queue
+INFO:root:TIME 77: Agent 2 finished serving Passenger 36
+INFO:root:TIME 78: Passenger 40 arrived in queue
+INFO:root:TIME 78: Agent 2 started serving Passenger 38. Waiting time: 2
+INFO:root:TIME 79: Passenger 41 arrived in queue
+INFO:root:TIME 79: Agent 1 finished serving Passenger 37
+INFO:root:TIME 80: Passenger 42 arrived in queue
+INFO:root:TIME 80: Agent 1 started serving Passenger 39. Waiting time: 3
+INFO:root:TIME 81: Agent 2 finished serving Passenger 38
+INFO:root:TIME 82: Agent 2 started serving Passenger 40. Waiting time: 4
+INFO:root:TIME 83: Passenger 43 arrived in queue
+INFO:root:TIME 83: Agent 1 finished serving Passenger 39
+INFO:root:TIME 84: Agent 1 started serving Passenger 41. Waiting time: 5
+INFO:root:TIME 85: Agent 2 finished serving Passenger 40
+INFO:root:TIME 86: Passenger 44 arrived in queue
+INFO:root:TIME 86: Agent 2 started serving Passenger 42. Waiting time: 6
+INFO:root:TIME 87: Passenger 45 arrived in queue
+INFO:root:TIME 87: Agent 1 finished serving Passenger 41
+INFO:root:TIME 88: Agent 1 started serving Passenger 43. Waiting time: 5
+INFO:root:TIME 89: Agent 2 finished serving Passenger 42
+INFO:root:TIME 90: Agent 2 started serving Passenger 44. Waiting time: 4
+INFO:root:TIME 91: Passenger 46 arrived in queue
+INFO:root:TIME 91: Agent 1 finished serving Passenger 43
+INFO:root:TIME 92: Passenger 47 arrived in queue
+INFO:root:TIME 92: Agent 1 started serving Passenger 45. Waiting time: 5
+INFO:root:TIME 93: Agent 2 finished serving Passenger 44
+INFO:root:TIME 94: Agent 2 started serving Passenger 46. Waiting time: 3
+INFO:root:TIME 95: Passenger 48 arrived in queue
+INFO:root:TIME 95: Agent 1 finished serving Passenger 45
+INFO:root:TIME 96: Passenger 49 arrived in queue
+INFO:root:TIME 96: Agent 1 started serving Passenger 47. Waiting time: 4
+INFO:root:TIME 97: Passenger 50 arrived in queue
+INFO:root:TIME 97: Agent 2 finished serving Passenger 46
+INFO:root:TIME 98: Agent 2 started serving Passenger 48. Waiting time: 3
+INFO:root:TIME 99: Agent 1 finished serving Passenger 47
+INFO:root:TIME 100: Passenger 51 arrived in queue
+INFO:root:TIME 100: Agent 1 started serving Passenger 49. Waiting time: 4
